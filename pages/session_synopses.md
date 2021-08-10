@@ -204,7 +204,7 @@ developers. If you have question(s) you know you would like to ask, we encourage
 to submit questions *ahead* of time via the
 [submission form](https://forms.gle/SmVroQBAq145g4F79).
 However, we expect there will also be ample opportunty to indicate your desire to ask
-questions via the main (Ampitheater) [slack channel](https://app.slack.com/client/TMW2FLNCQ/C029YJ95ULQ),
+questions via the main room [slack channel](https://app.slack.com/client/TMW2FLNCQ/C029YJ95ULQ),
 and then you may be called upon to un-mute and ask your question.
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
