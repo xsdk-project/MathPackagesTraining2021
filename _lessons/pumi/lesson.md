@@ -79,6 +79,13 @@ cd ~/{{site.handson_root}}/mfem-pumi-lesson/defeaturing
 ./simmodeler
 ```
 
+The following mouse commands, with the `Ctrl` button held down, will manipulate
+the view:
+- Ctrl+Left Mouse Button: Rotate
+- Ctrl+Right Mouse: Zoom
+- Ctrl+Middle Mouse: Pan
+- Ctrl+Wheel: Zoom
+
 Remove a small face as shown in Figure 4.
 - click 'File->Import Geometry' and select the `upright.x_t` model
 - click the 'Modeling' tab
