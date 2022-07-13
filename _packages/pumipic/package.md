@@ -2,7 +2,7 @@
 layout: package
 subheadline: ATPESC 2021 Package Overviews
 title: "PUMIPic"
-teaser: "PUMI for Particle-in-Cell Simulations"
+teaser: "PUMI for Parallel Particle-in-Cell Simulations"
 permalink: "packages/pumipic/"
 use_math: true
 package: true
